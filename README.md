@@ -28,6 +28,3 @@ sudo wget -q https://raw.githubusercontent.com/thanhphatit/k8s-connect/main/inst
 ### Help
 
 You can use `k8s-connect -h` to show help user
-
-
-
